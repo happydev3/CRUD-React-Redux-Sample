@@ -1,6 +1,12 @@
 # React, Redux CRUD example
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Build a React Redux CRUD Application to consume Web API using Axios, display and modify data with Router & Bootstrap.
+
+## React Redux Tutorial Application in that:
+
+### Each Tutorial has id, firstname, lastname, email, phone, locations.
+### We can create, retrieve, update, delete Tutorials.
+### Locations can be multiple values.
 
 ## How to work!
 
