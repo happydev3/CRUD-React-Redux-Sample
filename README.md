@@ -4,9 +4,9 @@ Build a React Redux CRUD Application to consume Web API using Axios, display and
 
  ## React Redux Tutorial Application in that:
 
-   ### Each Tutorial has id, firstname, lastname, email, phone, locations.
-   ### We can create, retrieve, update, delete Tutorials.
-   ### Locations can be multiple values.
+   ### 1. Each Tutorial has id, firstname, lastname, email, phone, locations.
+   ### 2. We can create, retrieve, update, delete Tutorials.
+   ### 3. Locations can be multiple values.
 
  ## How to work!
 
